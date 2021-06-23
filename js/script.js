@@ -1,3 +1,5 @@
+
+
 let  entrada = document.querySelector('input[name=tarefa]');
 let botao = document.getElementById('botao');
 let nome_anime =  document.querySelector("#lista");
